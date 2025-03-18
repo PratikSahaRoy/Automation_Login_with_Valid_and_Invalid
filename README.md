@@ -24,6 +24,6 @@ In this project, I automated the end-to-end user journey on Automation Excercise
 
 🔹 Writing efficient test scripts for UI interactions.
 
-🔹 Handling test validation for login, cart, and checkout processes.
+🔹 Handling test validation for login.
 
 🔹 Enhancing test coverage and reducing manual effort.
