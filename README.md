@@ -1,4 +1,4 @@
-# Automation_Excercise-Automation
+# Automation_Excercise
 
 
 ### Project Name:
